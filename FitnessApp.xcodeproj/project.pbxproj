@@ -75,9 +75,9 @@
 		D845D05C2D2394210045CE2F = {
 			isa = PBXGroup;
 			children = (
-				D845D0672D2394210045CE2F /* FitnessApp */,
-				D845D0782D2394220045CE2F /* FitnessAppTests */,
 				D845D0822D2394220045CE2F /* FitnessAppUITests */,
+				D845D0782D2394220045CE2F /* FitnessAppTests */,
+				D845D0672D2394210045CE2F /* FitnessApp */,
 				D845D0662D2394210045CE2F /* Products */,
 			);
 			sourceTree = "<group>";
